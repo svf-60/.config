@@ -1,0 +1,9 @@
+{"timestamp":3703499,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","require_stateful_bounces":"false","bounce_time":"1774142630","success":"true","site_host":"pipewire.org","glean_timestamp":"1774631241876"}}
+{"timestamp":171019,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-03-27T10:17-07:00","glean_timestamp":"1774631853981"},"execution_counter":1}
+{"timestamp":92005,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1774632516898","glean.startup.date":"2026-03-27T10:28-07:00"},"execution_counter":2}
+{"timestamp":32034,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1774633070407","glean.startup.date":"2026-03-27T10:37-07:00"},"execution_counter":3}
+{"timestamp":76930,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1774633377287","glean.startup.date":"2026-03-27T10:42-07:00"},"execution_counter":4}
+{"timestamp":436472,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1774633736830","glean.startup.date":"2026-03-27T10:48-07:00"},"execution_counter":5}
+{"timestamp":49230,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-03-27T10:52-07:00","glean_timestamp":"1774633953642"},"execution_counter":6}
+{"timestamp":345916,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-03-27T10:57-07:00","glean_timestamp":"1774634250328"},"execution_counter":7}
+{"timestamp":254715,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1775610992028","glean.startup.date":"2026-04-07T18:16-07:00"},"execution_counter":8}

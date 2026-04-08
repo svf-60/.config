@@ -1,0 +1,26 @@
+[window]
+padding.x = 5
+padding.y = 5
+dynamic_padding = true
+decorations = "None"
+
+[font]
+normal.family = "Hack Nerd Font"
+normal.style = "Regular"
+size = 8
+offset.x = 1
+offset.y = 0
+
+[colors]
+primary.foreground = "#FFFFFF" 
+primary.background = "#282828"
+
+[mouse]
+hide_when_typing = true
+
+[cursor]
+style.shape = "Block"
+style.blinking = "Off"
+
+[terminal]
+shell = { program = "/bin/bash" }
